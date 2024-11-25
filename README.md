@@ -1,2 +1,2 @@
 # rust auth system astix
- nz 
+half baked
