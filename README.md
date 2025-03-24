@@ -1,2 +1,2 @@
-# rust auth system astix
+# rust auth system actix
 half baked
